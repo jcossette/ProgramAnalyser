@@ -1,0 +1,4 @@
+Procedure
+	declare test1 : entier;
+	declare test2 : reel;
+Fin_Procedure
